@@ -1,0 +1,4 @@
+(await ethers.provider.getBalance("0xTuDireccionDelContrato")).toString()
+await ethers.provider.getBalance("0xTuDireccionDelContrato")
+(await ethers.provider.getBalance("0xTuDireccionDelContrato"))
+(await ethers.provider.getBalance("0xTuDireccionDelContrato")).toString()
